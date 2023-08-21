@@ -1,0 +1,41 @@
+{
+    "manufacturer": "m.ki",
+    "keyboard_name": "coolpad13",
+    "maintainer": "telzo2000",
+    "bootloader": "caterina",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "via": true
+    },
+    
+    "matrix_pins": {
+        "direct": [
+            ["D3", "D7", "E6","B5","B4"]
+        ]
+    },
+    
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x1013",
+        "vid": "0x4D43"
+    },
+    "layouts": {
+        "LAYOUT_ortho_1x1": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 }, 
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+                { "matrix": [0, 3], "x": 3, "y": 0 },
+                { "matrix": [0, 4], "x": 4, "y": 0 } 
+            ]
+        }
+    }
+}

@@ -49,6 +49,10 @@ In addition, you will need a USB cable, keycaps, etc.
 |3|水平スライドスイッチ|1||[遊舎工房](https://shop.yushakobo.jp/products/5624?variant=45044666007783)|1個110円|
 |4|電池ホルダ|1||[モノタロウ](https://www.monotaro.com/p/8835/2765/)|1個263円|
 
+## Build guide
+
+https://github.com/telzo2000/coolpad13/blob/main/buildguide_for_coolpad13.md
+
 
 
 

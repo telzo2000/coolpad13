@@ -19,4 +19,4 @@ Compatible with [VIAL](https://get.vial.today/).
 File name: coolpad13_vial.hex
 <br>
 <br>
-I can not answer questions such as setting of BLE Micro Pro.
+I can not answer questions such as setting of BLE Micro Pro or Remap,etc.

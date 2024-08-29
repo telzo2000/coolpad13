@@ -20,3 +20,9 @@ File name: coolpad13_vial.hex
 <br>
 <br>
 I can not answer questions such as setting of BLE Micro Pro or Remap,etc.
+<br>
+<br>
+Although the text is in Japanese, here is an article that shows examples of how to set up BLE Micro Pro.
+<br>
+
+https://sizu.me/m_ki/posts/x1mh846sx3zd

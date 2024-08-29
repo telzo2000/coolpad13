@@ -16,6 +16,11 @@ File the cut section.
 切り取った断面をやすりがけしましょう。
 <br>
 
+Some versions are already cut out.
+<br>
+既に切り分けられているバージョンもあります。
+<br>
+
 ![](img/img00003.jpg)
 
 Paint the sides of all the boards with a black pen for a clean finish.

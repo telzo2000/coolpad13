@@ -4,7 +4,10 @@ coolpad13 is QMK_Firmware powered, bluetooth enabled, 5 key macropad keyboard.
 <br>
 coolpad13はQMK_Firmwareで動き、ブルートゥース対応で、５キーのマクロパッドキーボードです。
 <br>
-
+Some firmware is also for pro micro.
+<br><br>
+ファームウェアの中には、pro micro用のものもあります。
+<br>
 
 ## Firmware
 https://github.com/telzo2000/coolpad13/tree/main/firmware
@@ -31,9 +34,17 @@ In addition, you will need a USB cable, keycaps, etc.
 <br>
 <br>
 
+### 有線接続を希望する場合
+
+| No. | Patrs | Quantity | remarks | Suppliers | Cost |
+|--|--|--|--|--|--|
+|番号|名前|数|備考|調達先|参考価格（送料込）|<br>
+|1|pro micro|1|コンスルー推奨|[遊舎工房](https://yushakobo.jp)等||
+
+
 ### Bluetooth接続を希望する場合(1)
 
- No. | Patrs | Quantity | remarks | Suppliers | Cost |
+|No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
 |1|BLE Micro Pro|1|Bluetooth対応pro micro、コンスルー推奨|[遊舎工房](https://yushakobo.jp)等|5000円程度|
@@ -41,7 +52,7 @@ In addition, you will need a USB cable, keycaps, etc.
 
 ### Bluetooth接続を希望する場合(2)
 
- No. | Patrs | Quantity | remarks | Suppliers | Cost |
+| No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
 |1|BLE Micro Pro|1|Bluetooth対応pro micro、コンスルー推奨|[遊舎工房](https://yushakobo.jp)等|5000円程度|
